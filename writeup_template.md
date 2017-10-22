@@ -17,17 +17,17 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/calib2_orig.png "Calibration Input Output"
-[image2]: ./examples/undist2.png "Undistorted Input Output"
-[image4]: ./examples/undist1_out.png "Undistorted Input Output"
-[image5]: ./examples/undist4_persp_out.png "Perspective Example"
-[image6]: ./examples/threshold_b_out.png "Threshold hsb B Output"
-[image7]: ./examples/threshold_l_out.png "Threshold l hls Output"
-[image8]: ./examples/pipeline_in_out.png "Image pipeline Output"
-[image9]: ./examples/rects.png "Sliding windows Output"
-[image10]: ./examples/histogram.png "Histogram Output"
-[image11]: ./examples/prev_poly_fit.png "Previous polynomial fitting Output"
-[image12]: ./examples/warp_fill_out.png "Lane detected and filled"
+[image1]: ./examples/examples/calib2_orig.png "Calibration Input Output"
+[image2]: ./examples/examples/undist2.png "Undistorted Input Output"
+[image4]: ./examples/examples/undist1_out.png "Undistorted Input Output"
+[image5]: ./examples/examples/undist4_persp_out.png "Perspective Example"
+[image6]: ./examples/examples/threshold_b_out.png "Threshold hsb B Output"
+[image7]: ./examples/examples/threshold_l_out.png "Threshold l hls Output"
+[image8]: ./examples/examples/pipeline_in_out.png "Image pipeline Output"
+[image9]: ./examples/examples/rects.png "Sliding windows Output"
+[image10]: ./examples/examples/histogram.png "Histogram Output"
+[image11]: ./examples/examples/prev_poly_fit.png "Previous polynomial fitting Output"
+[image12]: ./examples/examples/warp_fill_out.png "Lane detected and filled"
 [video1]: ./ai_car.mp4 "Video"
 
 ---
