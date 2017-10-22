@@ -104,7 +104,9 @@ The code draw_curved_warped_highlighted_polyfit_lane() does this.
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's it ![alt text][video1]
+Here's it 
+
+![alt text][video1]
 
 ---
 
